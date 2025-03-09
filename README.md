@@ -28,3 +28,19 @@ used for performance evaluation and detailed comparisons in
 order to demonstrate the significance of optical flow color maps
 over images in smoke detection.
 </p>
+
+---
+
+## Citation
+
+If you use our code in your research, please consider citing our work using the following BibTeX entry:
+
+```bibtex
+@inproceedings{mahala2023non,
+  title={A non-local weighted fractional order variational model for smoke detection using deep learning models},
+  author={Mahala, Nitish Kumar and Khan, Muzammil and Kumar, Pushpendra},
+  booktitle={TENCON 2023-2023 IEEE Region 10 Conference (TENCON)},
+  pages={146--151},
+  year={2023},
+  organization={IEEE}
+}
