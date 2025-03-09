@@ -29,6 +29,15 @@ order to demonstrate the significance of optical flow color maps
 over images in smoke detection.
 </p>
 
+## Figure  
+![Figure 1](figures/fig01.png)
+**Figure 1:** .
+
+<br><br>
+
+![Figure 2](figures/fig02.png)
+**Figure 2:** .
+
 ---
 
 ## Citation
