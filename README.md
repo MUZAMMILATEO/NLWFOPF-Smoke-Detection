@@ -29,9 +29,15 @@ order to demonstrate the significance of optical flow color maps
 over images in smoke detection.
 </p>
 
-## Figure  
+## Framework  
 ![Figure 1](models/fig01.png)
 **Figure 1:** Proposed framework for fire-smoke detection.
+
+---
+
+## Contact
+For any questions or collaboration opportunities, reach out to:
+- **Muzammil Khan** (Corresponding Author) – [m.khan@utwente.nl](mailto:m.khan@utwente.nl)
 
 ---
 
